@@ -11,8 +11,10 @@ Descriptions:-
 <p>-For convenience, we can use %%sql (two %'s instead of one) at the top of a cell to indicate we want the entire cell to be treated as SQL. Let's use this to create a table and fill it with some test data for experimenting.</p>
 
 <b> <li> Analyzing a real world data set with SQL and Python</li> </b>
-<p>This lab checks at working with a real world data set- Social Economic data</p>
+<p>This lab checks at working with a real world data set- Social Economic data.</p>
 
+<b> <li>Chicago public schools Progress report cards.</li> </b>
+<b> <li>Peer graded assignment.</li> </b>
 
 </ul>
 <p></p>
